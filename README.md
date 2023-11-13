@@ -1,7 +1,7 @@
 #  Online Voting system using by Blockchain
 
 #### Introducing a Secure and Transparent Online Voting System Powered by Blockchain: This innovative project utilizes Ethereum's blockchain technology to guarantee the integrity of voting records. It offers a tamper-proof solution for remote voting, ensuring voter anonymity and preventing fraudulent activities. Discover a reliable and decentralized approach to conducting elections.
-#### For more details checkout [Project Documentation](XXX).
+#### For more details checkout [Project Documentation](https://docs.google.com/document/d/1j2CSnqdsa4CUjJ-gxIL06j4qvpZwUYXJXRBKdG-qnn0/edit?usp=sharing).
 
 ## Key Features:
 -  Harnesses the Ethereum blockchain to guarantee immutable and transparent voting records.
@@ -31,8 +31,6 @@
 5. Download [Metamask](https://metamask.io/download/) extension for the browser.
 
 6. Now create wallet (if you don't have one), then import accounts from ganache.
-
-7. Add network to the metamask. ( Network name - Localhost 7575, RPC URl - http://localhost:7545, Chain ID - 1337, Currency symbol - ETH)
 
 
 ## Usage
